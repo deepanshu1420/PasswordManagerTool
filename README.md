@@ -40,7 +40,7 @@ Designed with a focus on simplicity, privacy, and core system design concepts.
 
 ## 📂 Project Structure
 ```
-PasswordManager/
+PasswordManagerTool/
 │── main.cpp
 │── PasswordManager.cpp
 │── PasswordManager.h
