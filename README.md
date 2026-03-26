@@ -48,6 +48,53 @@ PasswordManager/
 │── README.md
 ```
 
+## 💻 Sample Session
+```
+ ============================================================
+        Welcome to Deepanshu's Password Manager Tool
+                  [ Secure. Simple. Yours. ]
+  ============================================================
+
+
+  +---------------------------------------+
+  |             MAIN MENU                 |
+  +---------------------------------------+
+  |  1.  Add a new password               |
+  |  2.  View all passwords               |
+  |  3.  Search password by website       |
+  |  4.  Delete a password                |
+  |  5.  Exit                             |
+  |  6.  Encrypt / Decrypt Tool           |
+  +---------------------------------------+
+  Enter your choice: 
+```  
+
+## 🖼️ Screenshots
+
+### 🔹 Add Password
+![Add Password](./screenshots/AddPassword.png)  
+*Allows users to securely add and store new credentials.*
+
+### 🔹 View Passwords
+![View Passwords](./screenshots/ViewSavedPassword.png)  
+*Shows all saved entries with passwords masked for security.*
+
+### 🔹 Search Password
+![Search Password](./screenshots/Search.png)  
+*Enables users to search for stored credentials by website name.*
+
+### 🔹 Delete Password
+![Delete Password](./screenshots/DeletePassword.png)  
+*Provides an option to remove saved credentials permanently.*
+
+### 🔹 Encrypt / Decrypt Tool
+![Encrypt Decrypt](./screenshots/Encryption_Decryption.png)  
+*Allows manual encryption and decryption of custom text.*
+
+### 🔹 Exit
+![Exit](./screenshots/Exit.png)  
+*Safely exits the application after completing all operations.*
+
 ## 📦 Setup & Installation
 
 ### 1. Clone

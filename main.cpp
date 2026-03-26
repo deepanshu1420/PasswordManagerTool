@@ -123,7 +123,7 @@ int main() {
             // ---- 5. Exit -------------------------------------
             case 5: {
                 printDivider();
-                std::cout << "\n  Goodbye, Deepanshu! Your passwords are safe and sound.\n\n";
+                std::cout << "\n  Goodbye, Deepanshu! Your passwords are safe and secure.\n\n";
                 printDivider();
                 break;
             }

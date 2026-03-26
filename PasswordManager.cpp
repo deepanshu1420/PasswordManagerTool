@@ -367,7 +367,7 @@ void PasswordManager::deletePassword(const std::string& website) {
         std::cout << "  No entry found for \"" << website << "\". Nothing was deleted.\n\n";
     } else {
         saveToFile();
-        std::cout << "  The password for \"" << website << "\" has been deleted.\n\n";
+        std::cout << "  The password for \"" << website << "\" has been successfully deleted.\n\n";
     }
 }
 
