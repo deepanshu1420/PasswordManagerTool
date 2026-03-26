@@ -7,14 +7,10 @@
 A secure, console-based **Password Manager Tool** built in C++ that stores credentials locally using encryption.  
 Designed with a focus on simplicity, privacy, and core system design concepts.
 
----
-
 ## 📌 Overview
 - Stores passwords securely using **XOR encryption**
 - Works completely **offline (no cloud)**
 - Clean and interactive **menu-driven CLI**
-
----
 
 ## ✨ Features
 - 🔒 **Secure Storage** – Encrypts and saves data in `passwords.dat`
@@ -26,15 +22,11 @@ Designed with a focus on simplicity, privacy, and core system design concepts.
 - 🔄 **Encrypt/Decrypt Tool** – Manual text encryption utility
 - 💾 **Auto Save** – Loads & saves automatically
 
----
-
 ## 🚀 Advantages
 - 🖥️ **100% Offline & Private** – No external servers
 - ⚡ **Lightweight** – Pure C++ (no frameworks)
 - 🧑‍💻 **User-Friendly CLI** – Simple and intuitive menus
 - 🛡️ **Security Awareness** – Warns for weak passwords
-
----
 
 ## 🛠️ Tech Stack
 - **Language:** C++
@@ -43,8 +35,6 @@ Designed with a focus on simplicity, privacy, and core system design concepts.
 **Libraries Used:**
 - iostream, fstream, string, vector  
 - algorithm, cctype, limits, sstream  
-
----
 
 ## 📂 Project Structure
 ```
@@ -55,8 +45,6 @@ PasswordManager/
 │── .gitignore
 │── README.md
 ```
-
----
 
 ## ▶️ Getting Started
 
