@@ -71,27 +71,27 @@ PasswordManager/
 
 ## 🖼️ Screenshots
 
-### 🔹 Add Password
+### ➕ Add Password
 ![Add Password](./screenshots/AddPassword.png)  
 *Allows users to securely add and store new credentials.*
 
-### 🔹 View Passwords
+### 📋 View Passwords
 ![View Passwords](./screenshots/ViewSavedPassword.png)  
 *Shows all saved entries with passwords masked for security.*
 
-### 🔹 Search Password
+### 🔍 Search Password
 ![Search Password](./screenshots/Search.png)  
 *Enables users to search for stored credentials by website name.*
 
-### 🔹 Delete Password
+### ❌ Delete Password
 ![Delete Password](./screenshots/DeletePassword.png)  
 *Provides an option to remove saved credentials permanently.*
 
-### 🔹 Encrypt / Decrypt Tool
+### 🔄 Encrypt / Decrypt Tool
 ![Encrypt Decrypt](./screenshots/Encryption_Decryption.png)  
 *Allows manual encryption and decryption of custom text.*
 
-### 🔹 Exit
+### 🚪 Exit
 ![Exit](./screenshots/Exit.png)  
 *Safely exits the application after completing all operations.*
 
