@@ -59,8 +59,8 @@ cd PasswordManagerTool
 g++ main.cpp PasswordManager.cpp -o PasswordManager
 ```
 👉 This will create an executable file (.exe):
-- On Windows: PasswordManager.exe
-- On Mac/Linux: PasswordManager
+- On Windows: `PasswordManager.exe`
+- On Mac/Linux: `PasswordManager`
 
 ### 3. Run (via Terminal in VS Code)
 ```bash
