@@ -115,3 +115,7 @@ g++ main.cpp PasswordManager.cpp -o PasswordManager
 ```bash
 ./PasswordManager.exe
 ```
+
+### 4. Data File Creation
+👉 After saving your first password, a file will be created automatically:
+- `passwords.dat` (stores encrypted credentials locally)
