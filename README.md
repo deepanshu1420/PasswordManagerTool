@@ -1,6 +1,8 @@
 # 🔐 Password Manager Tool
 
 ![C++](https://img.shields.io/badge/Language-C++-blue)
+![OOP](https://img.shields.io/badge/Concept-OOP-orange)
+![STL](https://img.shields.io/badge/Library-STL-yellow)
 ![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
