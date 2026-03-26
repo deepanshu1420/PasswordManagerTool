@@ -46,7 +46,7 @@ PasswordManager/
 │── README.md
 ```
 
-## ▶️ Getting Started
+## 📦 Setup & Installation
 
 ### 1. Clone
 ```bash
