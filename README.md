@@ -32,7 +32,7 @@ Designed with a focus on simplicity, privacy, and core system design concepts.
 - **Language:** C++
 - **Concepts:** OOP, File Handling, STL
 
-**Libraries Used:**
+**📚 Libraries Used:**
 - iostream, fstream, string, vector  
 - algorithm, cctype, limits, sstream  
 
