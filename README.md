@@ -107,7 +107,7 @@ cd PasswordManagerTool
 ```bash
 g++ main.cpp PasswordManager.cpp -o PasswordManager
 ```
-👉 This will create an executable file (.exe):
+👉 This will create an executable file (.exe) inside folder:
 - On Windows: `PasswordManager.exe`
 - On Mac/Linux: `PasswordManager`
 
