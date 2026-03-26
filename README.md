@@ -47,12 +47,14 @@ Designed with a focus on simplicity, privacy, and core system design concepts.
 ---
 
 ## 📂 Project Structure
+```
 PasswordManager/
 │── main.cpp
 │── PasswordManager.cpp
 │── PasswordManager.h
 │── .gitignore
 │── README.md
+```
 
 ---
 
@@ -60,7 +62,7 @@ PasswordManager/
 
 ### 1. Clone
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/deepanshu1420/PasswordManagerTool.git
 cd password-manager
 ```
 
