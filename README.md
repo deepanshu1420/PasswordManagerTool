@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A secure, console-based **Password Manager Tool** built in C++ that stores credentials locally using encryption.  
-Designed with a focus on simplicity, privacy, and core system design concepts.
+Designed with a focus on efficiency, privacy, and core system design concepts.
 
 ## 📌 Overview
 - Stores passwords securely using **XOR encryption**
