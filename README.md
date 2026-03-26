@@ -51,10 +51,10 @@ PasswordManager/
 ### 1. Clone
 ```bash
 git clone https://github.com/deepanshu1420/PasswordManagerTool.git
-cd password-manager
+cd PasswordManagerTool
 ```
 
-### 2. Compile (via Terminal in VS Code)
+### 2. Compile <sub>(via Terminal in VS Code)</sub>
 ```bash
 g++ main.cpp PasswordManager.cpp -o PasswordManager
 ```
@@ -62,7 +62,7 @@ g++ main.cpp PasswordManager.cpp -o PasswordManager
 - On Windows: PasswordManager.exe
 - On Mac/Linux: PasswordManager
 
-### 3. Run (via Terminal in VS Code)
+### 3. Run <sub>(via Terminal in VS Code)</sub>
 ```bash
-./PasswordManager
+./PasswordManager.exe
 ```
