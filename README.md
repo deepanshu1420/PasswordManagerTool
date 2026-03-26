@@ -20,7 +20,7 @@ Designed with a focus on simplicity, privacy, and core system design concepts.
 - 🔒 **Secure Storage** – Encrypts and saves data in `passwords.dat`
 - 📊 **Password Strength Analyzer** – Checks strength + gives suggestions
 - 👁️ **Masked Display** – Passwords hidden by default
-- 🔍 **Smart Search** – Case-insensitive search
+- 🔍 **Smart Search** – Search by exact website name
 - ❌ **Delete Functionality** – Remove saved entries
 - 🚫 **Duplicate Prevention** – Avoids overwriting existing data
 - 🔄 **Encrypt/Decrypt Tool** – Manual text encryption utility
